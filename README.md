@@ -1,3 +1,15 @@
 # OIBSIP
+It is my first repository for the OASIS INFOBYTE internship task.
+This complex project consists of five different classes and is a console-based application. When the system starts the user is
+prompted with user id and user pin. On entering the details successfully, then ATM functionalities
+are unlocked. The project allows to perform following operations:
 
-It is the repository for my OASIS INFOBYTE internship on JAVA DEVELOPMENT.There are two projects one is the ATM INTERFACE and another one is the ONLINE EXAMINATION.
+1.Transactions History
+
+2.Withdraw
+
+3.Deposit
+
+4.Transfer
+
+5.Quit
